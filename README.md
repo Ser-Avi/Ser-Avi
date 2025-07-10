@@ -2,7 +2,7 @@
 - 👀 I’m interested in the intersection of Computer Science and the Arts and Humanities.
 - 🌱 I’m currently studying Computer Graphics and Game Technology at the University of Pennsylvania.
 
-- My class-related projects and thus it is mostly my older projects that show up here.
+- My class and work projects are private, so it is mostly my older repos that show up.
 - Please reach out to me for the code for my more recent ones.
 
 <!---
